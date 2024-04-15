@@ -1,1 +1,1 @@
-# Repo to learn Numpy
+# Repository to learn Numpy
